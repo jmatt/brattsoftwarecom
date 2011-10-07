@@ -1,0 +1,167 @@
+/* 
+Aurelis Script No 2 Std 
+Foundry: Arkandis Digital Foundry, http://arkandis.tuxfamily.org/ 
+Contributors: Hirwen Harendal 
+License: GNU General Public License, http://www.gnu.org/licenses/gpl-2.0.html 
+*/
+@font-face {
+	font-family: 'Aurelis No2 Std';
+	font-style: italic;	
+	src: url('../fonts/aurelis-script-no-2-std-kRB.eot?') format('eot'), url('../fonts/aurelis-script-no-2-std-kRB.ttf') format('truetype'), url('../fonts/aurelis-script-no-2-std-kRB.woff') format('woff')
+}
+
+body, a, a:visited{
+   font-family: 'Inconsolata';
+   background: #061212;
+   color:rgba(0, 189, 126, 0.48);
+}
+
+#header, #body h3, #footer h3 { text-align: center; font-family: 'Aurelis No2 Std'; }
+
+/*#header h1 {
+font-family: 'Aurelis No2 Std';
+
+color: #0098CE;
+font-size: 160px;
+text-align: center;
+margin-left: 60px;
+margin-bottom: 120px;
+line-height: 40%;
+-moz-transform: margin:0;
+}*/
+
+header h1 {
+color: #0078BD; //#0098CE;
+//font-family: 'Rokkitt', serif;
+font-family: 'IM Fell DW Pica', serif;
+font-style: normal;
+font-weight: 400;
+font-size: 160px;
+text-transform: none;
+text-decoration: none;
+letter-spacing: 0em;
+word-spacing: 0em;
+line-height: 32%;
+}
+
+#intro, .notice, .recos, #footer, #builder, .new, #main { margin-left: auto; margin-right: auto; width: 78%; display: block; font-style: normal;}
+
+#br, #JM, #att, #bratt, #software {
+   float: left;
+   height: 160px;
+} 
+
+#bratt {
+   margin-left: 88px;
+   margin-right: 51px;
+}
+
+#br{
+   margin-left: 12px;
+}
+
+#att{
+   width:180px;
+   margin-right: 20px;
+}
+
+#software {
+   clear:both;
+   margin-top: 0;
+   margin-left: 88px;
+}
+
+#main {
+   margin-left: 88px;
+   clear: both;
+   float: left;
+}
+
+#jmatt {
+   color: rgba(0, 242, 16, 0.04);
+}
+
+#chris {
+   color: rgba(0, 116, 242, 0.04);
+}
+
+#main br {
+    column-span: all;
+}
+
+#main p {
+   font-family:"Lato";
+   font-size: 18px;
+}
+
+.tacos
+{
+   text-shadow: 2px 2px 2px #567889;
+}
+
+#footer {
+   font-size: 18px;
+   clear:both;
+   display:block;
+}
+
+#footer_center {
+   display:block;
+   text-align:center;
+   float:center;
+   margin: 20px;
+   padding: 5px;
+}
+
+#rawr {
+   display:block;
+   float:right;
+   text-align:right;
+   margin-right:2px;
+   padding: 5px;
+}
+
+#lost {
+   display:block;
+   float:left;
+   text-align:left;
+   margin-left:2px;
+   padding: 5px;
+}
+
+.italic {
+   font-style: oblique;
+}
+
+#games {
+   margin-left: 88px;
+   margin-top: 0px;
+   margin-bottom: 88px;
+   font-family: "Lato";
+   font-size: 48px;
+   color:rgba(0, 189, 126, 0.9);
+}
+
+
+/* html5 grid */
+.cols{margin-bottom:1.5em;overflow:hidden;} /* main column container class */
+.col{
+   float:left;
+   display:inline;	
+   margin-left:2%;
+}
+.cols .first, .col:first-child{margin-left:none !important;}
+.col{width:48%;} /* 2-column width now */
+
+/* Sticky Footer */
+body, html {height: 100%; margin: 0;}
+#container {
+   min-height: 100%;
+   height: auto !important;
+   height: 100%;
+   margin: 0 auto -64px; /* Set footer height. */
+}
+footer, .push {
+   height: 64px; /* Set footer height. */
+        /* clear: both; */ /* Muti-column fix.*/
+}

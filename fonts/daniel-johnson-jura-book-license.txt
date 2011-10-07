@@ -1,0 +1,486 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title>SIL Open Font License (OFL)</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="keywords" content="fonts, design, license, free, libre, free software, open, community, review, share">
+<link rel="stylesheet" href="/cms/assets/misc/css/default.css" type="text/css">
+<link rel="stylesheet" href="../sites/nrsi/themes/default/_css/default.css" type="text/css">
+
+<style type="text/css">
+<!--
+
+A.GlobalNavLink, A.GlobalNavLink:visited {
+	color: #FFFF00;
+	font-size: smaller;
+	font-weight: bold;
+}
+
+-->
+
+</style>
+
+<!-- START Google Analytics -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-5469534-1");
+pageTracker._trackPageview();
+</script>
+<!-- END Google Analytics -->
+
+</head>
+
+<body style="padding:0; margin:0">
+
+
+<table width="100%" height="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td style="background: #336699; padding-left:20; padding-top:10; white-space:nowrap;" width="110" valign="top">
+		<p><a href="http://www.sil.org/"><img src="../sites/nrsi/themes/default/_media/SIL_logo_left_column.gif" width="86" height="80" border="0"></a><br><br></p>
+    	<p class="Cat1"><a class="Cat1" href="page.php?&cat_id=Home">Home</a></p>
+<p class="Cat1"><a class="Cat1" href="page.php?&cat_id=ContactUs">Contact Us</a></p>
+<p class="Cat1"><a class="Cat1" href="page.php?&cat_id=General">General</a></p>
+<p class="Cat2"><a class="Cat2" href="page.php?&cat_id=Babel">Initiative B@bel</a></p>
+<p class="Cat2"><a class="Cat2" href="page.php?&cat_id=WSI_Guidelines">WSI Guidelines</a></p>
+<p class="Cat1"><a class="Cat1" href="page.php?&cat_id=Encoding">Encoding</a></p>
+<p class="Cat2"><a class="Cat2" href="page.php?&cat_id=EncodingPrinciples">Principles</a></p>
+<p class="Cat2"><a class="Cat2" href="page.php?&cat_id=Unicode">Unicode</a></p>
+<p class="Cat3"><a class="Cat3" href="page.php?&cat_id=UnicodeTraining">Training</a></p>
+<p class="Cat3"><a class="Cat3" href="page.php?&cat_id=UnicodeTutorials">Tutorials</a></p>
+<p class="Cat3"><a class="Cat3" href="page.php?&cat_id=UnicodePUA">PUA</a></p>
+<p class="Cat2"><a class="Cat2" href="page.php?&cat_id=Conversion">Conversion</a></p>
+<p class="Cat3"><a class="Cat3" href="page.php?&cat_id=EncConvRes">Resources</a></p>
+<p class="Cat3"><a class="Cat3" href="page.php?&cat_id=ConversionUtilities">Utilities</a></p>
+<p class="Cat4"><a class="Cat4" href="page.php?&cat_id=TECkit">TECkit</a></p>
+<p class="Cat3"><a class="Cat3" href="page.php?&cat_id=ConversionMaps">Maps</a></p>
+<p class="Cat2"><a class="Cat2" href="page.php?&cat_id=EncodingResources">Resources</a></p>
+<p class="Cat1"><a class="Cat1" href="page.php?&cat_id=Input">Input</a></p>
+<p class="Cat2"><a class="Cat2" href="page.php?&cat_id=InputPrinciples">Principles</a></p>
+<p class="Cat2"><a class="Cat2" href="page.php?&cat_id=InputUtilities">Utilities</a></p>
+<p class="Cat2"><a class="Cat2" href="page.php?&cat_id=InputTutorials">Tutorials</a></p>
+<p class="Cat2"><a class="Cat2" href="page.php?&cat_id=InputResources">Resources</a></p>
+<p class="Cat1"><a class="Cat1" href="page.php?&cat_id=TypeDesign">Type Design</a></p>
+<p class="Cat2"><a class="Cat2" href="page.php?&cat_id=TypeDesignPrinciples">Principles</a></p>
+<p class="Cat2"><a class="Cat2" href="page.php?&cat_id=FontDesignTools">Design Tools</a></p>
+<p class="Cat2"><a class="Cat2" href="page.php?&cat_id=FontFormats">Formats</a></p>
+<p class="Cat2"><a class="Cat2" href="page.php?&cat_id=TypeDesignResources">Resources</a></p>
+<p class="Cat3"><a class="Cat3" href="page.php?&cat_id=FontDownloads">Font Downloads</a></p>
+<p class="Cat3"><a class="Cat3" href="page.php?&cat_id=FontDownloadsGentium">Gentium</a></p>
+<p class="Cat3"><a class="Cat3" href="page.php?&cat_id=FontDownloadsDoulos">Doulos</a></p>
+<p class="Cat3"><a class="Cat3" href="page.php?&cat_id=FontDownloadsIPA">IPA</a></p>
+<p class="Cat1"><a class="Cat1" href="page.php?&cat_id=Rendering">Rendering</a></p>
+<p class="Cat2"><a class="Cat2" href="page.php?&cat_id=RenderingPrinciples">Principles</a></p>
+<p class="Cat2"><a class="Cat2" href="page.php?&cat_id=RenderingTechnologies">Technologies</a></p>
+<p class="Cat3"><a class="Cat3" href="page.php?&cat_id=RenderingOpenType">OpenType</a></p>
+<p class="Cat3"><a class="Cat3" href="page.php?&cat_id=RenderingGraphite">Graphite</a></p>
+<p class="Cat2"><a class="Cat2" href="page.php?&cat_id=RenderingResources">Resources</a></p>
+<p class="Cat3"><a class="Cat3" href="page.php?&cat_id=FontFAQ">Font FAQ</a></p>
+<p class="Cat1"><a class="Cat1" href="page.php?&cat_id=Links">Links</a></p>
+<p class="Cat1"><a class="Cat1" href="page.php?&cat_id=Glossary">Glossary</a></p>
+
+    	<br>
+	</td>
+
+    <td valign="top" style="padding:0" xwidth="650">
+		<div style="background: #6699CC url(../sites/nrsi/themes/default/_media/home_banner_gradient.gif) no-repeat right; padding:0 0 0 25; height:36px; margin:0; color:#FFFFFF;">
+			<p style="font-family:Times New Roman; font-size:25px; color:#FFFFFF; padding:10 0 0 0; margin:0 0 0 0">NRSI: Computers & Writing Systems</p>
+		</div>
+		<div style="padding:0 0 0 0; background-color:#000000; color:#FFFFFF">
+			<table width='100%'>
+				<tr>
+					<td style="padding: 0 0 0 25px"><a class="GlobalNavLink" href="http://www.sil.org/">SIL HOME</a>
+							| <a class="GlobalNavLink" href="http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&cat_id=ContactUs">CONTACT US</a>
+					</td>
+					<td align='right'>
+<div id="google_translate_element"></div><script>
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({
+    pageLanguage: 'en'
+  }, 'google_translate_element');
+}
+</script><script src="http://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+					</td>
+					<td align='right' width='20%'>
+						<p><!-- RegionBegin: region_type='SearchForm' id='bcc0ff46' --><form action='/cms/scripts/page.php?' method='POST' name='search_form'><input style='font-size:9' maxlength='200' name='search_query' size='30' value=''/> <input style='font-size:9' type='submit' value='Search'/></form><!-- RegionEnd: region_type='SearchForm' id='bcc0ff46' --></p>
+					</td>
+				</tr>
+			</table>
+		</div>
+
+		<div style="padding:0 25 25 25">
+			<p class='CategoryPath'>You are here: <a class='CategoryPath' href='page.php?&cat_id=TypeDesign'>Type Design</a><br>
+			Short URL: <a href='http://scripts.sil.org/OFL'>http://scripts.sil.org/OFL</a></p>
+			
+			<!-- 
+			 -->
+<!-- 
+<div class='Warning'  >
+	<p class='Warning_heading'  >
+		Site unavailability
+	</p>
+	<p>
+		Due to essential repairs, this website may be unavailable at times during September 6 (Tue) and 7 (Wed). We apologize for the inconvenience.
+	</p>
+</div>
+-->
+			<h1>SIL Open Font License (OFL)
+</h1>
+<p> <span class='author_date_hits'>Nicolas Spalinger & Victor Gaultney, 2007-02-26; 348138 reads</span></p><div class='Sidebar'><p><a href='page.php?item_id=OFL'>General Information</a></p>
+<p><a href='page.php?item_id=OFL_web'>Text of the SIL Open Font License</a></p>
+<p><a href='page.php?item_id=OFL-FAQ_web'>The OFL FAQ</a></p>
+<p><a href='page.php?item_id=OFL_fonts'>Fonts licensed via the OFL</a></p>
+<p><a href='page.php?item_id=OFL_logo'>OFL Graphics</a></p>
+<p><a href='page.php?item_id=OFL_list'>Mailing Lists</a></p>
+<p><a href='page.php?item_id=OFL_feedback'>Feedback</a></p>
+<table width='108' align='left' border='0' cellpadding='0' cellspacing='0' style='padding:0 8px 0 0'><tr><td><a href='http://scripts.sil.org/OFL'><img class='media' src='../sites/nrsi/media/OFL_logo_rect_color.png' height='31' width='88' border='0' vspace='0' hspace='0'></a></td></tr></table></div><p></p>
+<p class='TOCTitle'></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;<a href='#3b878279'>Overview</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href='#f28128b3'>Documents</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='#5667e9e4'>Current version - 1.1</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='#0b8d92bc'>Translations</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href='#83afb016'>Using the OFL</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href='#16d2b386'>History</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='#809bffa7'>Community review</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='#2c029872'>OFL fonts</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href='#43a3bb12'>Details and rationale</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='#6c6c80bc'>FLOSS-friendliness</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='#eceee56d'>The 4 FSF Freedoms</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='#0d1d4c4d'>DFSG compatibility</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='#7acba3db'>Name protection similarity</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='#8656a63b'>OSD compatibility</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='#9ccf5052'>"Human readable" version and visual representation</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='#e182a8a3'>Terminology</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='#54a00af6'>Visual representation</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='#2855b85f'>Attribution</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='#77f28741'>Share Alike</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='#9eda48a4'>Embedding</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='#8e6f58a5'>DerivativeRenaming</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='#5c2c6c13'>BundlingWhenSelling</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='#853a1422'>Beyond the OFL</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='#9c85c3bd'>Working model</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href='#53ed0dbd'>OFL-related resources</a><br>
+</p><a name='3b878279'></a>
+<h2>Overview</h2>
+
+<p><table width='108' align='left' border='0' cellpadding='0' cellspacing='0' style='padding:0 8px 0 0'><tr><td><img class='media' src='../sites/nrsi/media/OFL_logo_rect_color.png' height='31' width='88' border='0' vspace='0' hspace='0'></td></tr></table>The SIL Open Font License (OFL) is a free and open source license specifically designed for fonts and related software based on our experience in font design and linguistic software engineering. </p>
+<p>The main purpose is to enable a true open typographic community to spring up and grow. The OFL provides a legal framework and infrastructure for worldwide development, sharing and improvement of fonts and related software in a collaborative manner. It enables font authors to release their work under a common license that allows bundling, modification and redistribution. It encourages shared value, is not limited to any specific computing platform or environment, and can be used by other organisations or individuals.</p>
+<p>The OFL meets the specific needs of typographic design and engineering as well as the gold standards of the FLOSS (Free/Libre and Open Source Software) community, namely the cultural values and guidelines from the FSF <span class='footnote_ref'><a href='#footnote_1'>1</a></span>, the Debian Free Software Guidelines<span class='footnote_ref'><a href='#footnote_2'>2</a></span>, as well as the Open Source Definition<span class='footnote_ref'><a href='#footnote_3'>3</a></span>. It draws inspiration from some concepts and elements found in other free and open licenses, but we believe our improvements in the specific area of fonts will make the licensing model work better than other models currently in use.</p>
+<p><a href='http://www.sil.org/' target='_blank'><img src='../assets/icons/offsite_link.png' border='0'>&nbsp;SIL International</a> is a worldwide development and educational organisation. By facilitating language-based development, we serve the peoples of the world through research, translation, and literacy. We have been thinking about more open and participative models for a while, especially with recent partnerships with UNESCO (<a href='page.php?item_id=Babel'>Initiative B@bel</a>) and our work on the <a href='page.php?item_id=gentium'>Gentium</a> typeface.</p>
+<p>We want to:</p>
+<ul>
+<li>enable others to participate in our projects 
+<li>enable others to cater to needs for which we don't have the resources 
+<li>share our wealth of knowledge and experience in the area of writing systems and pass on our tools
+<li>equip the community to meet its font needs 
+</ul>
+<p>We serve the peoples of the world without regard to their material wealth, so we are grateful to those that do fund our work. Visit <a href='http://www.sil.org/sil/development/involve.html#donate' target='_blank'><img src='../assets/icons/offsite_link.png' border='0'>&nbsp;this page</a> for information on supporting our efforts.</p>
+<p></p>
+<a name='f28128b3'></a>
+<h2>Documents</h2>
+
+<p>We have worked hard to make our license readable and easily understood by users, designers and software developers as well as package maintainers and distributors. To make the OFL even more human-readable, we have provided a FAQ to help everyone understand the intent and the practical aspects of using the license itself. Although it already covers many items, the FAQ will grow as needed.</p>
+<a name='5667e9e4'></a>
+<h3>Current version - 1.1</h3>
+
+<p>We recommend all authors use version 1.1 of the OFL, but version 1.0 is given here for reference. A full list of changes from 1.0 to 1.1 can be found on the <a href='page.php?item_id=OFL_review'>OFL Review</a> page. The most important change for authors is that no font names are reserved by default. Reserved Font Names must be explicitly listed alongside the copyright statement in the OFL header.</p>
+<div class='dDataViewTable'>
+<div class='bd'>
+<table class='Table_Default'>
+<tr><td class='Table_Header_Row'  align='left' >Format</td><td class='Table_Header_Row'  align='left' >OFL</td><td class='Table_Header_Row'  align='left' >OFL-FAQ</td></tr>
+<tr><td class='Table_Odd_Row' align='left' >web (html)</td>
+<td class='Table_Odd_Row' align='left' ><a href='page.php?item_id=OFL_web'>OFL 1.1</a></td>
+<td class='Table_Odd_Row' align='left' ><a href='page.php?item_id=OFL-FAQ_web'>OFL-FAQ 1.1-update2</a></td>
+</tr>
+<tr><td class='Table_Even_Row' align='left' >plain text</td>
+<td class='Table_Even_Row' align='left' ><table border='0' cellpadding='8' cellspacing='0'><tr><td align='left' valign='top'><img src='../assets/icons/type-txt.gif' border='0' width='32' height='32' style='margin:1px 5px 0 0'></td><td align='left' valign='top'><small><b>OFL Plaintext</b><br>Nicolas Spalinger & Victor Gaultney, 2007-02-26<br><a href='render_download.php?&format=file&media_id=OFL_plaintext&filename=OFL.txt'>Download "OFL.txt"</a>, Text document, 5KB [15608 downloads] </small></td></tr></table></td>
+<td class='Table_Even_Row' align='left' ><table border='0' cellpadding='8' cellspacing='0'><tr><td align='left' valign='top'><img src='../assets/icons/type-txt.gif' border='0' width='32' height='32' style='margin:1px 5px 0 0'></td><td align='left' valign='top'><small><b>OFL-FAQ Plaintext (1.1-update2)</b><br>Nicolas Spalinger & Victor Gaultney, 2010-08-23<br><a href='render_download.php?&format=file&media_id=OFL-FAQ_plaintext&filename=OFL-FAQ.txt'>Download "OFL-FAQ.txt"</a>, Text document, 43KB [6413 downloads] </small></td></tr></table></td>
+</tr>
+</table>
+</div>
+</div>
+<p class='Caption'>OFL 1.1 Documents</p>
+<div class='dDataViewTable'>
+<div class='bd'>
+<table class='Table_Default'>
+<tr><td class='Table_Header_Row'  align='left' >Format</td><td class='Table_Header_Row'  align='left' >OFL</td><td class='Table_Header_Row'  align='left' >OFL-FAQ</td></tr>
+<tr><td class='Table_Odd_Row' align='left' >web (html)</td>
+<td class='Table_Odd_Row' align='left' ><a href='page.php?item_id=OFL10_web'>OFL 1.0</a></td>
+<td class='Table_Odd_Row' align='left' ><a href='page.php?item_id=OFL-FAQ10_web'>OFL-FAQ 1.0</a></td>
+</tr>
+<tr><td class='Table_Even_Row' align='left' >plain text</td>
+<td class='Table_Even_Row' align='left' ><table border='0' cellpadding='8' cellspacing='0'><tr><td align='left' valign='top'><img src='../assets/icons/type-txt.gif' border='0' width='32' height='32' style='margin:1px 5px 0 0'></td><td align='left' valign='top'><small><b>OFL 1.0 Plaintext</b><br>Nicolas Spalinger & Victor Gaultney, 2005-11-22<br><a href='render_download.php?&format=file&media_id=OFL10_plaintext&filename=OFL10.txt'>Download "OFL10.txt"</a>, Text document, 4KB [4188 downloads] </small></td></tr></table></td>
+<td class='Table_Even_Row' align='left' ><table border='0' cellpadding='8' cellspacing='0'><tr><td align='left' valign='top'><img src='../assets/icons/type-txt.gif' border='0' width='32' height='32' style='margin:1px 5px 0 0'></td><td align='left' valign='top'><small><b>OFL-FAQ 1.0 Plaintext</b><br>Nicolas Spalinger & Victor Gaultney, 2005-11-22<br><a href='render_download.php?&format=file&media_id=OFL-FAQ10_plaintext&filename=ofl-faq10.txt'>Download "ofl-faq10.txt"</a>, Text document, 18KB [3578 downloads] </small></td></tr></table></td>
+</tr>
+</table>
+</div>
+</div>
+<p class='Caption'>OFL 1.0 Documents (for reference only)</p>
+<a name='0b8d92bc'></a>
+<h3>Translations</h3>
+
+<p>We also recognise the need for people who are not familiar with English to be able to understand the OFL and this FAQ better - in their own language. If you are an experienced translator, you are very welcome to help by translating the OFL and its FAQ so that designers and users in your language community can understand the license better. But only the original English version of the license has legal value and has been approved by the community. Translations do not count as legal substitutes and should only serve as a way to explain the original license. SIL - as the author and steward of the license for the community at large - does not approve any translation of the OFL as legally valid because even small translation ambiguities could be abused and create problems.</p>
+<p>We give permission to publish unofficial translations into other languages provided that they comply with the following guidelines:</p>
+<p>1) Put the following disclaimer in both English and the target language stating clearly that the translation is unofficial:</p>
+<p><span class='Literal'> "This is an unofficial translation of the SIL Open Font License into $language. It was not published by SIL International, and does not legally state the distribution terms for fonts that use the OFL. A release under the OFL is only valid when using the original English text.</span></p>
+<p><span class='Literal'> However, we recognize that this unofficial translation will help users and designers not familiar with English to understand the SIL OFL better and make it easier to use and release font families under this collaborative font design model. We encourage designers who consider releasing their creation under the OFL to read the FAQ in their own language if it is available.</span> <br />
+<span class='Literal'> Please go to http://scripts.sil.org/OFL for the official version of the license and the accompanying FAQ."</span></p>
+<p>2) Keep your unofficial translation current and update it at our request if needed, for example, if there is any ambiguity which could lead to confusion.  </p>
+<p>If you start such a unofficial translation effort of the OFL and its accompanying FAQ please let us know, thank you.</p>
+<a name='83afb016'></a>
+<h2>Using the OFL</h2>
+
+<p>It is relatively simple to use the OFL for your own font project. If you are the copyright owner you only need to do the following:</p>
+<ul>
+<li>Put your copyright and reserved names information in the beginning of the main OFL file (simply use the dedicated placeholders).
+<li>Put your copyright and the OFL references in your various font files (such as in the copyright, license and description fields) and in your other components (build scripts, glyph databases, documentation, rendering samples, etc). Accurate metadata in your font files is beneficial to you as an increasing number of applications are exposing this information to the user. For example, clickable links can bring users back to your website and let them know about other work you have done or services you provide. Depending on the format of your fonts and sources, you can use template human-readable headers or machine-readable metadata.
+<li>Write an initial FONTLOG for your font and include it in the release package.
+<li>Include the OFL in your release package.
+<li>We also highly recommend you include the relevant practical documentation on the license by putting the OFL-FAQ in your package.
+<li>If you wish, you can use the <a href='page.php?item_id=OFL_logo'>OFL Graphics</a> on your web page.
+</ul>
+<p>More information can be found in the <a href='page.php?item_id=OFL-FAQ_web'>OFL-FAQ</a>.</p>
+<p></p>
+<a name='16d2b386'></a>
+<h2>History</h2>
+
+<p>Current version: 1.1</p>
+<p>2009-04-06 - OFL recognized as compliant with the OSD (Open Source Definition) by the OSI board and placed on their <a href='http://opensource.org/licenses/alphabetical' target='_blank'><img src='../assets/icons/offsite_link.png' border='0'>&nbsp;list of approved licenses</a>.</p>
+<p>2007-02-26 - Version 1.1 released.</p>
+<p>2006-03-18 - A minor revision of the OFL entered the review phase. OFL-1.1-review1 was followed by OFL-1.1-review2 a few months later.</p>
+<p>2006-01-23 - OFL recognized as a free license by the FSF (Free Software Foundation) on their <a href='http://www.fsf.org/licensing/licenses' target='_blank'><img src='../assets/icons/offsite_link.png' border='0'>&nbsp;License List</a>.</p>
+<p>2005-11-22 - Version 1.0 released.</p>
+<p>2005-11-07 - Version 1.0-review2 submitted to ofl-discuss.</p>
+<p>2005-09-07 - Version 1.0-review1 submitted to the first round of public reviewers.</p>
+<a name='809bffa7'></a>
+<h3>Community review</h3>
+
+<p>Between November 2005 and January 2007 the OFL was in a public review stage, with efforts going towards version 1.1. We selected a number of reviewers we felt were the relevant experts and sought their input. We submitted our draft for review and received very insightful feedback from some of them.</p>
+<p>The review period is now over and even though we feel version 1.1 will likely meet the needs for open font licensing for quite some time, (given the growing number of font families released under the OFL: well over a 100 right now) we remain open to community feedback. For more information on the mailing-list which was used to host the review discussions see <a href='page.php?item_id=OFL_list'>the mailing-list page</a>. The mailing-list has been switched off but full archives of the discussions will available from that page soon.</p>
+<p>Various font-related BoFs (Birds of a Feather meetings) have taken place at recent FLOSS conference (Libre Graphics Meeting, Ubuntu Summit, GUADEC, DebConf among others) to discuss what would be needed to improve the font landscape on the free desktop. One key aspect was appropriate licensing of the fonts, flexibility to maintain and branch fonts without breaking rendering, interoperability across distributions, and the definition of a core set of fonts with recognized glyph quality, sufficient Unicode coverage and a good community-recognized license. The OFL has been recognised by many contributors to these discussion as a good solution for these issues. </p>
+<p>The discussion continues via the freedesktop.org initiative and other community partners (like Unifont.org, the GNOME and the freedesktop project). Various IRC discussions have been held on topics related to fonts on the #freedesktop and ##fonts channels on irc.freenode.org.</p>
+<p>The goals of the OFL and its methodology have been presented and discussed at the <a href='http://www.atypi.org' target='_blank'><img src='../assets/icons/offsite_link.png' border='0'>&nbsp;AtypI</a> annual conferences in Lisbon, Portugal and St Petersburg, Russia.</p>
+<p>The OFL, its working model and its current adoption in the FLOSS community have also been  <a href='http://live.gnome.org/Boston2006/TextLayout/OFL' target='_blank'><img src='../assets/icons/offsite_link.png' border='0'>&nbsp;presented</a> at the recent <a href='http://live.gnome.org/Boston2006/TextLayout/' target='_blank'><img src='../assets/icons/offsite_link.png' border='0'>&nbsp;TextLayoutSummit</a> in Boston (as part of the GNOME Summit) to key maintainers and contributors in the area of writing systems components on the free desktop.  </p>
+<p>Other <a href='http://freedesktop.org/wiki/TextLayout' target='_blank'><img src='../assets/icons/offsite_link.png' border='0'>&nbsp;TextLayout meetings</a> have taken place during Akademy or the Libre Graphics Meeting in 2007 and 2008.</p>
+<p>Open font-related presentation have also been made during <a href='http://tug.org/' target='_blank'><img src='../assets/icons/offsite_link.png' border='0'>&nbsp;TUG conferences</a>.</p>
+<p>There is now an ongoing campaign with support from various key organisations in the FLOSS community (Unifont.org, Freedesktop.org, the GNOME foundation, KDE e.V., the Linux Foundation and the Free Software Foundation) to encourage more designers to consider choosing the OFL for their font projects. Visit <a href='http://unifont.org/go_for_ofl/' target='_blank'><img src='../assets/icons/offsite_link.png' border='0'>&nbsp;Unifont.org/go_for_ofl</a> for more details and ways you can participate.</p>
+<p>The OpenFontLibrary is also gathering momentum to encourage designers to do collaborative open font design using a community-recognized license, to improve the open font design toolkit and to make their work more widely known to others. See the <a href='http://www.openfontlibrary.org/wiki' target='_blank'><img src='../assets/icons/offsite_link.png' border='0'>&nbsp;OpenFontLibrary wiki</a> for the ongoing developments of the library which now hosts a growing number of open fonts. The OFLB is undergoing a redesign with many features related to webfonts (or font linking) and will be launched soon. </p>
+<a name='2c029872'></a>
+<h3>OFL fonts</h3>
+
+<p>We intend to use the OFL for all our future font releases, and will re-release our existing and older font packages under the OFL as we have personnel time. The priority of older packages will depend on demand.</p>
+<p>If you release (or intend to release) your font(s) under the OFL, let us know and we'll place a link to the fonts on our <a href='page.php?item_id=OFL_fonts'>OFL fonts page</a>.</p>
+<a name='43a3bb12'></a>
+<h2>Details and rationale</h2>
+
+<a name='6c6c80bc'></a>
+<h3>FLOSS-friendliness</h3>
+
+<p>The OFL is designed to be in tune with the FLOSS (Free/Libre and Open Source Software) culture. It builds upon good ideas already in existence in some free/libre and open projects but by bringing our extensive font design experience and linguistic software engineering know-how into the mix, we believe we are able to make a font-specific license better, simpler, more human-readable, neutral and reusable.</p>
+<p>The OFL authors were inspired by the partnership between <a href='http://www.gnome.org/' target='_blank'><img src='../assets/icons/offsite_link.png' border='0'>&nbsp;GNOME</a> and <a href='http://www.bitstream.com/' target='_blank'><img src='../assets/icons/offsite_link.png' border='0'>&nbsp;Bitstream</a> for the <a href='http://www.gnome.org/fonts/' target='_blank'><img src='../assets/icons/offsite_link.png' border='0'>&nbsp;Vera family of fonts</a> and the licensing model which was chosen. They have also studied the community impact and some of the difficulties faced by this model.</p>
+<a name='eceee56d'></a>
+<h4>The 4 FSF Freedoms</h4>
+
+<p>The OFL is listed as a free license on the FSF <a href='http://www.fsf.org/licensing/licenses' target='_blank'><img src='../assets/icons/offsite_link.png' border='0'>&nbsp;License List</a>. It complies with the <a href='http://www.fsf.org/licensing/essays/free-sw.html' target='_blank'><img src='../assets/icons/offsite_link.png' border='0'>&nbsp;Free Software Definition</a> and its four foundational freedoms as defined by the Free Software Foundation for the GNU project:</p>
+<ul>
+<li>Use: the freedom to use font software for any purpose. (freedom 0)
+<li>Study and adaptation: the freedom to study how font software works, and adapt it to your needs (freedom 1). Access and rights to the source code is a precondition for this.
+<li>Redistribution: the freedom to redistribute copies of the font software so you can help your neighbor (freedom 2).
+<li>Improvement and redistribution of modifications: the freedom to improve the font software and release your improvements (freedom 3), so that the community benefits. Access and rights to the source code is a precondition for this.
+</ul>
+<a name='0d1d4c4d'></a>
+<h4>DFSG compatibility</h4>
+
+<p>Font Software released under the OFL complies with the <a href='http://www.debian.org/social_contract' target='_blank'><img src='../assets/icons/offsite_link.png' border='0'>&nbsp;Debian Free Software Guidelines</a>:</p>
+<ul>
+<li>reselling: DFSG #1
+<li>source code redistribution: DFSG #2
+<li>derivatives: DFSG #3
+<li>"compromise" clause permitting name change: DFSG #4 (this is absolutely essential for font derivatives for artistic integrity and anti-collision purposes)
+<li>no discrimination against people/groups: DFSG #5
+<li>no discrimination against fields of endeavour: DFSG #6
+<li>license distribution: DFSG #7
+<li>non-Debian specific: DFSG #8
+<li>no contamination of other software: DFSG #9
+</ul>
+<p>Note that various font families under OFL have been accepted in the main archive of Debian (as well as Ubuntu) by the ftp-masters. An increasing number of Debian and Ubuntu developers are maintaining font packages under the OFL in main.</p>
+<a name='7acba3db'></a>
+<h4>Name protection similarity</h4>
+
+<p>It is also similar to other well-known free software licenses where changes require other changes:</p>
+<ul>
+<li>the GPL in paragraph 2a) where "the modified files" must carry prominent notices of changes 
+<li>the LGPL in paragraph 2b) where - like for the GPL - "the files modified" must carry prominent notices of changes
+<li>the GFDL in paragraph 4a) where a new "title" must be given to derivatives
+<li>the Artistic License in paragraph 3c) and 4c) where "non standard executables" must be renamed so as not to conflict with the standard ones
+</ul>
+<p>The name protection (as in the renaming of derivatives) also bears some similarity with trademark protection policies for some projects:</p>
+<ul>
+<li>maintaining the reputation of quality
+<li>not confusing end-users about the origin of the product 
+<li>avoid building undeserved trust while still allowing derivatives to exist
+</ul>
+<a name='8656a63b'></a>
+<h4>OSD compatibility</h4>
+
+<p>The OFL complies with the <a href='http://opensource.org/docs/definition.php' target='_blank'><img src='../assets/icons/offsite_link.png' border='0'>&nbsp;Open Source Definition</a>:</p>
+<ul>
+<li>free redistribution: #1
+<li>source code: #2
+<li>derived works: #3
+<li>integrity of the author(s) source code: #4 
+(with the possibility of requiring a name change)
+<li>no discrimination against persons or groups: #5
+<li>no discrimination against fields of endeavour: #6
+<li>distribution of license: #7
+<li>license must not be specific to a product: #8
+<li>license must not restrict other software: #9
+<li>license must be technology-neutral: #10
+</ul>
+<p>The OFL also seeks to be in tune with the important concept of non-proliferation of licenses. So the OFL fits with the recent OSI criteria by being:</p>
+<ul>
+<li>non-duplicative
+<li>clear and understandable
+<li>reusable
+</ul>
+<p>The OFL is definitely not a "corporate vanity" license. A new license is created to meet requirements that existing licenses do not. The fact is that currently many font licenses already exist, but very few achieve the goals of dissemination, modification and redistributability in a similar way to other free and open source licenses. The existing font-related licenses are adaptations of existing licenses which were primarily designed for software and using them does not deal with issues specific to fonts and so leaves various difficult grey areas (embedding or derivative use for example) so our goal is to help resolve these real problems for us and for the FLOSS community. In order to do so, we have created a unified open license acceptable by the major stakeholders, the FLOSS community at large as well as the type community and the various writing system vendors and packagers.</p>
+<p>We also hope that this new license will fill a need for lesser-known languages, complex scripts and typographic needs with low direct economic value and so empower language communities who were left out by proprietary vendors until now.</p>
+<a name='9ccf5052'></a>
+<h3>"Human readable" version and visual representation</h3>
+
+<p>The spirit and working model of the OFL can be expressed in human-readable Creative Commons-like <span class='footnote_ref'><a href='#footnote_4'>4</a></span> terminology using the following permits / requires elements and visual representations:  </p>
+<p>Please note that this terminology and visual representation is simply an expression of the working model of the license and has no legal value in itself. It is designed to help you understand and use the Open Font License in a similar way to the OFL FAQ. It is always intended to link back to the full license text of the OFL. Please note that although the terminology and visual representation of the OFL is based on work by Creative Commons, the OFL is not officially affiliated with Creative Commons.</p>
+<a name='e182a8a3'></a>
+<h4>Terminology</h4>
+
+<span class='Runin'><p>permits<br />
+Distribution, Reproduction, Embedding, DerivativeWorks</p>
+</span><span class='Runin'><p>requires<br />
+Attribution, Notice, ShareAlike, DerivativeRenaming, BundlingWhenSelling</p>
+</span><a name='54a00af6'></a>
+<h4>Visual representation</h4>
+
+<table width='191' align='left' border='0' cellpadding='0' cellspacing='0' style='padding:0 8px 0 0'><tr><td><img class='media' src='../sites/nrsi/media/ofl-human-readable.png' height='34' width='171' border='0' vspace='0' hspace='0'></td></tr><tr style='padding:0 8px 0 0'><td style='padding:0 8px 0 0'><p class='Caption'>Human-readable representation</p></td></tr></table><br clear='left'>
+<br>
+<p></p>
+<p>(the Distribution, Reproduction, DerivativeWorks and Notice elements are implied and not represented as icons).</p>
+<p>This is what each icon means:</p>
+<a name='2855b85f'></a>
+<h4>Attribution</h4>
+
+<table width='52' align='left' border='0' cellpadding='0' cellspacing='0' style='padding:0 8px 0 0'><tr><td><img class='media' src='../sites/nrsi/media/Attribution.png' height='32' width='32' border='0' vspace='0' hspace='0'></td></tr><tr style='padding:0 8px 0 0'><td style='padding:0 8px 0 0'><p class='Caption'>requirement</p></td></tr></table><p>The icon shows a person and represents the author(s).<br />
+The requirement is for proper attribution of author(s): name(s) and notice(s) must be preserved and abuse of the name(s) and reputation of the author(s) is forbidden.<br />
+See condition 2) and 4) of the OFL.</p>
+<br clear='left'>
+<br>
+<p></p>
+<a name='77f28741'></a>
+<h4>Share Alike</h4>
+
+<table width='52' align='left' border='0' cellpadding='0' cellspacing='0' style='padding:0 8px 0 0'><tr><td><img class='media' src='../sites/nrsi/media/ShareAlike.png' height='31' width='32' border='0' vspace='0' hspace='0'></td></tr><tr style='padding:0 8px 0 0'><td style='padding:0 8px 0 0'><p class='Caption'>requirement</p></td></tr></table><p>The icon shows a cycle and represents the way font sofware can be re-used by all under equivalent terms.<br />
+The requirement is for derivative works to remain under the same license to encourage fair collaboration and prevent anyone from locking away contributions.<br />
+See condition 5) of the OFL</p>
+<br clear='left'>
+<br>
+<p></p>
+<a name='9eda48a4'></a>
+<h4>Embedding</h4>
+
+<table width='52' align='left' border='0' cellpadding='0' cellspacing='0' style='padding:0 8px 0 0'><tr><td><img class='media' src='../sites/nrsi/media/Embedding.png' height='32' width='32' border='0' vspace='0' hspace='0'></td></tr><tr style='padding:0 8px 0 0'><td style='padding:0 8px 0 0'><p class='Caption'>permission</p></td></tr></table><p>The icon shows a letter on a piece of paper and represents a font placed inside a document.<br />
+The permission is for fonts to be embedded in any kind of document. This does not affect the licensing status of the document but makes it easier for documents to be used in different environments.<br />
+See the first paragraph of the Permission and Conditions section as well as section 5) of the OFL.</p>
+<br clear='left'>
+<br>
+<p></p>
+<a name='8e6f58a5'></a>
+<h4>DerivativeRenaming</h4>
+
+<table width='52' align='left' border='0' cellpadding='0' cellspacing='0' style='padding:0 8px 0 0'><tr><td><img class='media' src='../sites/nrsi/media/DerivativeRenaming.png' height='32' width='32' border='0' vspace='0' hspace='0'></td></tr><tr style='padding:0 8px 0 0'><td style='padding:0 8px 0 0'><p class='Caption'>requirement </p></td></tr></table><p>The icon shows letters A and B close to each other representing a font (A) from which another font (B) of a different shape is derived. It refers to a derivative branched from the original font and bearing a new name.<br />
+The requirement is for derivative fonts to be renamed to allow branching while retaining artistic integrity.<br />
+See condition 3) of the OFL</p>
+<br clear='left'>
+<br>
+<p></p>
+<a name='5c2c6c13'></a>
+<h4>BundlingWhenSelling</h4>
+
+<table width='52' align='left' border='0' cellpadding='0' cellspacing='0' style='padding:0 8px 0 0'><tr><td><img class='media' src='../sites/nrsi/media/BundlingWhenSelling.png' height='32' width='32' border='0' vspace='0' hspace='0'></td></tr><tr style='padding:0 8px 0 0'><td style='padding:0 8px 0 0'><p class='Caption'>requirement </p></td></tr></table><p>The icon shows a dollar sign between parentheses. The dollar sign represents money (although there are other currencies in the world) and the parentheses refers to the bundling.<br />
+The requirement is for fonts to be bundled with software when they are sold. Fonts cannot be sold on their own. Redistribution without selling is not restricted. <br />
+See condition 1) of the OFL.</p>
+<br clear='left'>
+<br>
+<p></p>
+<a name='853a1422'></a>
+<h3>Beyond the OFL</h3>
+
+<p>The OFL is part of our global effort to enable a fully open stack of writing system implementation components which takes into account complex scripts. Apart from a collection of open fonts, which are a crucial element of the stack, SIL's contributions include the following components:</p>
+<ul>
+<li>a smart input method (<a href='http://kmfl.sourceforge.net/' target='_blank'><img src='../assets/icons/offsite_link.png' border='0'>&nbsp;KMFL</a>)
+<li>a smart rendering library (<a href='page.php?cat_id=RenderingGraphite'>Graphite</a>)
+<li>a smart-enabled Office and Internet suite (<a href='page.php?item_id=OOo_20_graphite'>SIL.OpenOffice.org</a> and <a href='http://sila.mozdev.org/' target='_blank'><img src='../assets/icons/offsite_link.png' border='0'>&nbsp;SILA</a>)
+<li>a pango module for Graphite Support in the GNOME desktop (available for the Graphite repository) and about to be merged with pango.
+</ul>
+<p>All these elements are available under free and open licenses.</p>
+<a name='9c85c3bd'></a>
+<h3>Working model</h3>
+
+<p>Here is a diagram to visualise possible behaviours illustrating redistribution and bundling rights, forking/branching and merging possibilities and the relationships between various contributors.</p>
+<br clear='left'>
+<br>
+<p></p>
+<table width='467' align='left' border='0' cellpadding='0' cellspacing='0' style='padding:0 8px 0 0'><tr><td><img class='media' src='render_graphic.php?&type=media_graphic&filename=../sites/nrsi/media/OFL_diagram.png&image_type=png&width=447&height=403' height='403' width='447' border='0' vspace='0' hspace='0'></td></tr><tr style='padding:0 8px 0 0'><td style='padding:0 8px 0 0'><p class='Caption'>OFL diagram</p></td></tr></table><br clear='left'>
+<br>
+<p></p>
+<a name='53ed0dbd'></a>
+<h2>OFL-related resources</h2>
+
+<p>We are working on various tools and documentation for an Open Font Strategy. </p>
+<p>The OFL forms the "licensing layer" for this strategy. As we start releasing our new font projects under the OFL, we hope to make a number of tools and tutorials available to font authors on this website. We are also working on the other layers and want to share our experience and methodologies with seasoned as well as aspiring designers and font engineers.</p>
+<br clear='left'>
+<br>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<hr align='left' class='footnote_rule'><table>
+<tr>
+<td class='footnote_number' align='top'><a name='footnote_1'></a>1</td>
+<td class=footnote_text>The Free Software Foundation Licensing Lab: <a href='http://www.fsf.org/licensing' target='_blank'><img src='../assets/icons/offsite_link.png' border='0'>&nbsp;www.fsf.org/licensing</a></td>
+</tr>
+<tr>
+<td class='footnote_number' align='top'><a name='footnote_2'></a>2</td>
+<td class=footnote_text>The Debian Free Software Guidelines: <a href='http://www.debian.org/social_contract' target='_blank'><img src='../assets/icons/offsite_link.png' border='0'>&nbsp;www.debian.org/social_contract</a></td>
+</tr>
+<tr>
+<td class='footnote_number' align='top'><a name='footnote_3'></a>3</td>
+<td class=footnote_text>The Open Source Definition: <a href='http://opensource.org/docs/definition.php' target='_blank'><img src='../assets/icons/offsite_link.png' border='0'>&nbsp;opensource.org/docs/definition.php</a></td>
+</tr>
+<tr>
+<td class='footnote_number' align='top'><a name='footnote_4'></a>4</td>
+<td class=footnote_text>Creative Commons: <a href='http://creativecommons.org/about/licenses/' target='_blank'><img src='../assets/icons/offsite_link.png' border='0'>&nbsp;http://creativecommons.org/about/licenses/</a></td>
+</tr>
+</table>
+
+
+			<hr>
+			
+			<p><small>© 2003-2011 <a href='http://www.sil.org/' target='_blank'>SIL International</a>, all rights reserved, unless otherwise noted elsewhere on this page.<br>
+			Provided by SIL's Non-Roman Script Initiative. Contact us at <script type="text/javascript">
+<!--
+var str1 = "<a hre"; var str2 = "f='mai"; var str3 = "lto:";
+var str4 = "nrsi"; var str5 = "@"; var str6 = "sil.org'>";
+var str7 = "nrsi@"; var str8 = "sil.org</a>";
+document.write(str1 + str2 + str3 + str4 + str5 + str6 + str7 + str8);
+//-->
+</script>.</small></p>
+		</div>
+    </td>
+
+</table>
+<!-- Page duration: 0.25 -->
+
+</body>
+
+</html>

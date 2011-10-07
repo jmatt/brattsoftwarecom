@@ -1,0 +1,250 @@
+/* KERNEST.COM WEB FONT CSS GENERATED FOR audacity */
+
+/* 
+Jura Book 
+Foundry: Daniel Johnson,  
+Contributors: Daniel Johnson 
+License: SIL Open Font License, http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&item_id=OFL 
+*/
+@font-face {
+	font-family: 'Jura';
+	src: url('fonts/jura-book-kRB.eot?') format('eot'), url('fonts/jura-book-kRB.ttf') format('truetype'), url('fonts/jura-book-kRB.woff') format('woff');
+}
+
+
+/* 
+Communist Regular 
+Foundry: Shamrock Int., http://shamrocking.com 
+Contributors: Jeroen Klaver 
+License: Freeware, http://en.wikipedia.org/wiki/Freeware 
+*/
+@font-face {
+	font-family: 'Communist';
+	src: url('fonts/communist-regular-kRB.eot?') format('eot'), url('fonts/communist-regular-kRB.ttf') format('truetype'), url('fonts/communist-regular-kRB.woff') format('woff');
+}
+
+
+/* 
+Aurelis Script No 2 Std 
+Foundry: Arkandis Digital Foundry, http://arkandis.tuxfamily.org/ 
+Contributors: Hirwen Harendal 
+License: GNU General Public License, http://www.gnu.org/licenses/gpl-2.0.html 
+*/
+@font-face {
+	font-family: 'Aurelis No2 Std';
+	font-style: italic;	
+	src: url('fonts/aurelis-script-no-2-std-kRB.eot?') format('eot'), url('fonts/aurelis-script-no-2-std-kRB.ttf') format('truetype'), url('fonts/aurelis-script-no-2-std-kRB.woff') format('woff')
+}
+
+
+/* 
+Jura Demi Bold  
+Foundry: Daniel Johnson,  
+Contributors: Daniel Johnson 
+License: SIL Open Font License, http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&item_id=OFL 
+*/
+
+@font-face {
+	font-family: 'Jura';
+	font-weight: 600;	
+	src: url('fonts/jura-demi-bold-kRB.eot?') format('eot'), url('fonts/jura-demi-bold-kRB.ttf') format('truetype'), url('fonts/jura-demi-bold-kRB.woff') format('woff')
+}
+
+body{
+	font-family:'Jura';
+	background-color:#6AB4AB;
+}
+
+#opening h1{
+	font-family:'Aurelis No2 Std';
+	font-style: italic;
+	color:#CE1700;
+	font-size:100px;
+	padding:0;
+	text-align:right;
+	margin-left:380px;
+	line-height:120%;
+	z-index:2;
+	position:absolute;
+	margin-top:-500px;
+	-moz-transform: margin:0;
+	}
+
+#opening>p:first-child:first-letter{
+	font-family:'communist';
+	top:-300px;
+	left:-300px;
+	margin-left:-500px;
+	font-size :1000px;
+	width : 1em;
+	height:150px;
+	color : #FBFFCD;
+	padding:0;
+	position:fixed;
+	z-index:1;
+	
+}
+#opening>p:first-child:after{
+	display:block;
+	clear:both;
+	height:0;
+}
+
+p.first{
+	margin-top:370px;
+	
+}
+#opening h3{
+	position:absolute;
+	z-index:2;
+	margin-top:-275px;
+	margin-left:690px;
+	font-family:'Communist';
+	color:#FBFFCD;
+	font-size:57px;
+	padding-bottom:20px;
+
+}
+
+/* 
+END Opening Content: Includes Drop "A"
+*/
+
+#content p{
+	font-size:24px;
+	margin-right:80px;
+	margin-left:450px;
+	text-align:right;
+	color:#27484D;
+}
+
+h2{
+	font-family:'Aurelis No2 Std';
+	font-style: italic;	
+	color:#CE1700;
+	font-size:85px;
+	padding:0;
+	float:left;
+	margin-left:-350px;
+	margin-top:-50px;
+	width:1000px;
+	opacity:.2;
+	-webkit-transform: rotate(-90deg);	
+	-moz-transform: rotate(-90deg);
+	-ms-transform: rotate(-90deg);
+	-o-transform: rotate(-90deg);
+	transform: rotate(-90deg);
+}
+
+#author{
+	font-family:'Jura';
+	color:#27484D;
+	font-size:30px;
+	position:absolute;
+	margin-left:-100px;
+	width:800px;
+	height:50px;
+	opacity:.2;
+	-webkit-transform: rotate(-90deg);	
+	-moz-transform: rotate(-90deg);
+	-ms-transform: rotate(-90deg);
+	-o-transform: rotate(-90deg);
+	transform: rotate(-90deg);
+	
+}
+
+p.red{
+	font-family:'Communist';
+	text-align:center;
+	color:#FBFFCD;
+	font-size:50px;
+}
+
+p.callouts{
+	font-family:'Jura';
+	color:#7A2F28;
+	font-size:50px;
+	text-align:justify;
+	opacity:.2;
+	margin-top:30px;
+	text-indent:130px;
+}
+
+a{
+	color:#CE1700;
+	font-size:30px;
+	text-decoration:none;
+	text-indent:0;
+	padding:0;
+}
+
+a:hover{
+	color:#FBFFCD;
+	text-decoration:underline;
+	text-shadow: -1px -2px 4px #27484D;
+
+}
+
+p{
+	text-align:justify;
+	font-size:24px;
+	color:#27484D;
+	margin-left:70px;
+	margin-right:200px;
+	line-height:130%;
+	max-width:1100px;
+}
+
+h4{
+	font-size:300px;
+	font-family:'Communist';
+	padding-right:10px;
+	padding-left: 60px;
+	margin:0;
+	position:relative;
+	float:right;
+	color:#FBFFCD;
+	margin-right:200px;
+}
+
+h5{
+	font-family:'Aurelis No2 Std';
+	font-style: italic;	
+	color:#CE1700;
+	font-size:85px;
+	padding:0px;
+	position:absolute;
+	margin-left:530px;
+	margin-top:350px;
+	width:800px;
+	float:right;
+	margin-bottom:0;
+	-webkit-transform: rotate(90deg);	
+	-moz-transform: rotate(90deg);
+	-ms-transform: rotate(90deg);
+	-o-transform: rotate(90deg);
+	transform: rotate(90deg);
+	}
+
+#subinfo{
+	font-family:'communist';
+	font-size:90px;
+	text-align:center;
+	width:300px;
+	margin:10px;
+	position:absolute;
+	margin-left:620px;
+	line-height:130%;
+	color:#7A2F28;
+	padding:20px;
+	
+}
+
+.box{
+	color:#7A2F28;
+	margin:50px 0 50px 200px;
+	padding:10px;	
+	font-size: 30px;
+	font-family: 'Jura';
+	font-weight: 600;
+}
